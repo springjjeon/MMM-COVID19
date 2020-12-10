@@ -1,43 +1,5 @@
-.covid {
-  border-collapse: collapse!important;
-}
-
-.covid .small {
-  font-size: 14px;
-}
-
-.covid .medium {
+.covid19 {
+  height: 60px;
   font-size: 20px;
-}
-
-.covid td.number {
-  text-align: right;
-}
-
-.covid td.recovered {
-  color: green;
-}
-
-.covid td.deaths {
-  color: red;
-}
-
-.covid td.serious {
-  color: orangered;
-}
-
-.covid td.active {
-  color: orange;
-}
-.covid tr.world {
-  border-bottom: 3px double grey;
-}
-
-.covid td.last-update {
-  text-align: right;
-  font-size: 11px;
-}
-
-.covid tr.highlight {
-  background-color: #404040;
+  line-height: 20px;
 }
